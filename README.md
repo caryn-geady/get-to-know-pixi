@@ -11,7 +11,7 @@ To install pixi, visit the [pixi website](https://pixi.sh/) and follow the instr
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/caryn-geady/MIRV.git
+git clone https://github.com/caryn-geady/get-to-know-pixi.git
 ```
 
 ### Installing dependencies
