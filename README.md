@@ -1,5 +1,7 @@
 # get-to-know-pixi
 
+This is my testing message.
+
 ### Installing Pixi
 
 Pixi is a tool for managing conda environments and managing dependencies. 
